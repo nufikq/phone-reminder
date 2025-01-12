@@ -1,11 +1,11 @@
 {
   "name": "WhatsApp",
-  "short_name": "WebApp",
+  "short_name": "WhatsApp",
   "description": "An installable Progressive Web App",
-  "start_url": "/index.html",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#007bff",
+  "theme_color": "#fffacd",
   "icons": [
     {
       "src": "whatsapp-icon-seeklogo.png",
